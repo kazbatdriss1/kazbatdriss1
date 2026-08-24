@@ -12,8 +12,7 @@
   [![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/idriss_kazbat)
   [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/kazbatdriss81)
   [![Gmail](https://img.shields.io/badge/Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kazbatdriss81@gmail.com)
-  ![Website](https://img.shields.io/website?url=https%3A%2F%2Fidriss-kazbat.vercel.app%2F)
-
+  [![Website](https://img.shields.io/website?url=https%3A%2F%2Fidriss-kazbat.vercel.app%2F)](https://idriss-kazbat.vercel.app/)
 </div>
 
 ---
