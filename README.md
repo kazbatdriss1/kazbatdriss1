@@ -1,26 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently a full stack trainee at [Zone01Oujda](https://learn.zone01oujda.ma)<br>🌱 I’m currently learning C, RUST, Golang, JS/Nodejs, SQLite<br>👨‍💻 All of my projects are available at my portfolio<br>📫 How to reach me kazbatdriss81@gmail.com<br><br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/idriss-kazbat) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kazbatdriss81) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/idriss_kazbat) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/SQLite-%2300599C.svg?style=for-the-badge&logo=SQLite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Docker](https://img.shields.io/badge/Docker-%2300599C.svg?style=for-the-badge&logo=Docker&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=kazbatdriss1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kazbatdriss1&theme=dark&hide_border=false)<br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Idriss%20Kazbat&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kazbatdriss1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Full-Stack+%26+Systems+Trainee;Low-Level+Enthusiast+(C+%7C+Rust+%7C+Go);Building+Scalable+Web+Architectures" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/idriss-kazbat)
+  [![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/idriss_kazbat)
+  [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/kazbatdriss81)
+  [![Gmail](https://img.shields.io/badge/Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kazbatdriss81@gmail.com)
 
 </div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=kazbatdriss1&icon=0&color=0)](https://visitcount.itsvg.in)
+### ⚡ System Overview
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+Developer: Idriss Kazbat
+Base: Casablanca, Morocco
+Station: Full-Stack Trainee @ Zone01 Oujda
+Focus: Systems Engineering, Backend Architecture & Modern Web
+Learning: [ Rust, Go, Low-Level C, Node.js, SQLite ]
+Status: Open for collaborations & open-source contributions
+```
+
+---
+
+### 🧰 Tech Matrix
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h4>⚙️ Systems & Core</h4>
+      <img src="https://skillicons.dev/icons?i=c,rust,go,python,cs,dotnet,java" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>🌐 Web & Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,html,css,figma" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>🗄️ Database & DevOps</h4>
+      <img src="https://skillicons.dev/icons?i=sqlite,docker,git,github,gitea,npm" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Activity & Telemetry
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api?username=kazbatdriss1&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kazbatdriss1&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://streak-stats.demolab.com/?user=kazbatdriss1&theme=radical&hide_border=true" alt="GitHub Streak" width="95%" />
+  </div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%"/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=kazbatdriss1&color=00F2FE&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
